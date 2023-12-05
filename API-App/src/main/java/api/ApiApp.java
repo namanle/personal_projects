@@ -1,4 +1,4 @@
-package cs1302.api;
+package project.api;
 
 import javafx.application.Application;
 import javafx.application.Platform;
